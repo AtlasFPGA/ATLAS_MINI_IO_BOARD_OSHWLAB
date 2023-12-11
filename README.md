@@ -1,6 +1,8 @@
 # ATLAS_MINI_IO_BOARD_OSHWLAB
 The I/O BOARD ATLAS in the cost reduced version "LA ROJA"
 
+# https://t.me/INICIATIVAATLAS -> El grupo ATLAS esta en Telegram pueden encontrarnos allí, Group ATLAS in Telegram
+
 https://oshwlab.com/subcritical/carrier_io_board_atlas_mini_copy#P3 
 
 More than 500 views.
